@@ -1,3 +1,5 @@
+O que melhorar? 
+
 Categorias de perguntas
 
 Permitir separar perguntas por temas (ex.: Matemática, História, Ciências).
